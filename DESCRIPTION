@@ -1,0 +1,14 @@
+Package: RiskEstDShift
+Type: Package
+Title: Semiparametrically Efficient and Fully Robust Risk Estimation under Various Dataset Shift Assumptions
+Version: 0.1.0
+Author: Hongxiang Qiu
+Maintainer: Hongxiang Qiu <david940408@gmail.com>
+Description: This package implements semiparametrically efficient and fully robust methods to estimate the risk of given learners under various dataset shift assumptions: covariate shift, label shift, and concept shift (in feature or label)
+License: GPL-3
+Encoding: UTF-8
+Depends: SuperLearner
+Imports: assertthat
+LazyData: true
+RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
